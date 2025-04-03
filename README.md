@@ -4,7 +4,7 @@
 This project demonstrates a **modern data engineering pipeline** built on **Azure** using the **AdventureWorks dataset**. The pipeline follows the **Medallion architecture** (Bronze, Silver, Gold) and integrates multiple Azure services to process, transform, and analyze data efficiently.
 
 ### 📊 Architecture & Workflow
-![Project Architecture](project_architecture.jpg)
+![Project Architecture](project_architecture.png)
 
 1. **Data Ingestion**
    - Source: **AdventureWorks Dataset**
